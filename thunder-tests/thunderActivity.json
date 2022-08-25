@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "a537174e-53a7-4e08-8872-1ef581af07c3",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/users",
+    "url": "http://localhost:3000/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-08-24T20:13:44.839Z",
+    "modified": "2022-08-25T15:23:58.099Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "0da3a752-aed7-4f0f-b61d-7f9ec168af57",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/users",
+    "url": "http://localhost:3000/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-08-24T20:31:04.219Z",
+    "modified": "2022-08-25T11:58:12.302Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"first_name\":\"prueba1\",\n  \"last_name\":\"last1\",\n  \"enterprise\":\"enter1\",\n  \"job\":\"job1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "bfcf2b97-a9f8-4e26-ae76-77f85656e295",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/users/63068a88de45dcf98ffa24dc",
+    "url": "http://localhost:3000/users/63076532f8db82bd0763864b",
+    "method": "DELETE",
+    "sortNum": 0,
+    "created": "2022-08-24T20:33:21.660Z",
+    "modified": "2022-08-25T15:24:10.385Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "7e151352-ddd0-4de2-a74a-6a882970a45a",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/users",
+    "url": "http://localhost:3000/users",
+    "method": "PUT",
+    "sortNum": 0,
+    "created": "2022-08-24T20:47:01.330Z",
+    "modified": "2022-08-25T12:29:30.855Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"id\":\"6304e14a108d0f8d83ad5781\",\n  \"content\":{\n    \"first_name\":\"Ruben13\"\n  }\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
